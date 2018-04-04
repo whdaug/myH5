@@ -1,4 +1,5 @@
 欢迎来到王伟的网页！
+
 思想总是走在行动前面，想到才能做到。因此，思想就是因，而你在生活中所遭遇的一切，都是果。有因才有果，既然这样，就不要再为过去或现今的一切境遇有丝毫的抱怨了，因为一切取决于你自己，取决于你能不能把环境塑造成你所希望的样子。
 You can use the [editor on GitHub](https://github.com/whdaug/myH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
